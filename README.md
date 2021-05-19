@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 
 - ✉️ How to contact me: 
 
-  - [<img src="./weibo.png" width="30" height="30">](https://weibo.com/u/3194053975) 
-  - [<img src="./youxiang.png" width="30" height="30">](mailto:xuanweiace@163.com) 
-  - Wechat: xuanweiace
+  - [<img src="./youxiang.png" width="30" height="30">](mailto:xuanweiace@163.com) xuanweiace@163.com
+  - [<img src="./weixin.png" width="30" height="30">] xuanweiace
   
 
   
