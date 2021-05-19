@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - :question: Ask me about anything. I will try to help you as much as I can.
 
-- :microphone: Quote: "Keep going and never stop"
+- :microphone: motto: "Keep going and never stop"
 
 - 💖 Hobby: Movie、Game、Music
 
