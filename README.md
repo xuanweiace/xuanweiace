@@ -17,34 +17,29 @@ Here are some ideas to get you started:
 
 ### Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-![](https://komarev.com/ghpvc/?username=FantasticLBP)
+![](https://komarev.com/ghpvc/?username=xuanweiace)
 
 
 
-- 👶 1995
+- 👶 1999
 
-- 🏠 HangZhou
+- 🏠 Jinan
 
 - :books: Software engineering
 
-- 💻 App development | Web development | Application Security | Anti-Spider
+- 💻 App development | Back-end engineer
 
 - :question: Ask me about anything. I will try to help you as much as I can.
 
-- :microphone: Quote: "Stay hungry, stay foolish."
+- :microphone: Quote: "Keep going and never stop"
 
-- 💖 Hobby: Movie、Ragdoll Cat、Table tennis、Bicycle
+- 💖 Hobby: Movie、Game、Music
 
 - ✉️ How to contact me: 
 
   - [<img src="./weibo.png" width="30" height="30">](https://weibo.com/u/3194053975) 
-  - [<img src="./youxiang.png" width="30" height="30">](mailto:wsbglbp@outlook.com) 
-  - Wechat: 704568245
-
-- If you like Ragdoll cats, you can find them in [there](./Ragdoll.md).
-
-  
-
+  - [<img src="./youxiang.png" width="30" height="30">](mailto:xuanweiace@163.com) 
+  - Wechat: xuanweiace
   
 
   
@@ -56,13 +51,13 @@ Here are some ideas to get you started:
 ----
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantasticLBP)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xuanweiace)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-[![FantasticLBP's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantasticLBP&layout=compact)](https://github.com/FantasticLBP)
+[![FantasticLBP's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanweiace&layout=compact)](https://github.com/xuanweiace)
 
 
 
@@ -71,7 +66,7 @@ Here are some ideas to get you started:
 
 📊 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantasticLBP&layout=compact)](https://github.com/muwoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanweiace&layout=compact)](https://github.com/muwoo/github-readme-stats)
 
  
 
